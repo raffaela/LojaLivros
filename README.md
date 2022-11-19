@@ -1,1 +1,3 @@
 # LojaLivros
+
+python main.py
