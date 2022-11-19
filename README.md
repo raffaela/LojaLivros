@@ -1,5 +1,4 @@
 # LojaLivros
-
-Necessita instalar a biblioteca Pandas, matplotlib e numpy.
+Install libraries Pandas, matplotlib and numpy.
 
 python main.py
